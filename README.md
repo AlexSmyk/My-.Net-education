@@ -1,1 +1,1 @@
-# My .Net education in itstep.by
+# My .Net education projects in itstep.by
